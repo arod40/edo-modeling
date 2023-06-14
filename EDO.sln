@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDO", "EDO\EDO.csproj", "{DA29812A-66D4-4147-919D-DA73BFD6DE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "Tester\Tester.csproj", "{4BA70703-5FDE-46CC-9C51-379322E3D3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDOModeling", "EDOModeling\EDOModeling.csproj", "{02C972D6-2E7E-4C50-AE8C-173F9569D4E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA29812A-66D4-4147-919D-DA73BFD6DE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA29812A-66D4-4147-919D-DA73BFD6DE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA29812A-66D4-4147-919D-DA73BFD6DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA29812A-66D4-4147-919D-DA73BFD6DE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA70703-5FDE-46CC-9C51-379322E3D3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA70703-5FDE-46CC-9C51-379322E3D3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA70703-5FDE-46CC-9C51-379322E3D3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA70703-5FDE-46CC-9C51-379322E3D3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C972D6-2E7E-4C50-AE8C-173F9569D4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C972D6-2E7E-4C50-AE8C-173F9569D4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C972D6-2E7E-4C50-AE8C-173F9569D4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C972D6-2E7E-4C50-AE8C-173F9569D4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
